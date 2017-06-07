@@ -1,7 +1,7 @@
 # Car-OCR
 基于机器学习和OCR的车牌识别系统 @fujunhao
 
-####1、运行环境
+#### 1、运行环境
 服务端：jdk1.8、OpenCV 2.4.9
 客户端：能上网的浏览器即可（windows、linux、android不限）
 #### 2、 开发环境
@@ -26,7 +26,7 @@ Maven依赖以及版本要求：
 			<version>0.11</version>
 		</dependency>
 ```
-####3、OpenCV安装说明（windows下）
+#### 3、OpenCV安装说明（windows下）
 - 详细可以参考：http://blog.csdn.net/morewindows/article/details/8225783/
 - 下载好opencv.exe，下载地址：https://sourceforge.net/projects/opencvlibrary/
 
